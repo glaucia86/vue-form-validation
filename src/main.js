@@ -7,8 +7,6 @@ import Vuelidate from 'vuelidate'
 
 Vue.use(Vuelidate)
 
-// Vue.config.productionTip = false
-
 new Vue({
   router,
   store,
